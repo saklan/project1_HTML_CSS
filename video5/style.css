@@ -1,0 +1,16 @@
+
+
+div{
+    color: lightcoral;
+    border:1px solid grey;
+    margin: 40px;
+    font-weight: bold;
+}
+p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p{
+    color: orange;
+}
